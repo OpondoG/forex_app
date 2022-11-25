@@ -12,6 +12,7 @@
 .top-part h1 {
   font-size: 1rem;
   text-align: center;
+  color: hsl(180deg 51% 52%);
 }
 
 .top-buttons {
