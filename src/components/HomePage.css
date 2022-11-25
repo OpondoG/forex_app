@@ -76,9 +76,10 @@
   color: #14b058;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 420px) {
   .home-page {
     padding: 3rem;
+    display: grid;
   }
 
   .top-part {
