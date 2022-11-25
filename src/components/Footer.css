@@ -1,0 +1,16 @@
+.footer {
+  width: 100%;
+  background-color: rgb(24, 159, 212);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 30rem;
+  gap: 5px;
+  margin: 0 33px 0 33px;
+}
+
+footer a {
+  color: rgb(22, 165, 231);
+  text-decoration: underline;
+}
