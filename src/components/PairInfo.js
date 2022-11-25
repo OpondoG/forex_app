@@ -1,6 +1,7 @@
 import React from 'react';
 import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
+import { BiArrowBack } from 'react-icons/bi';
 
 const PairInfo = () => {
   const info = useSelector((state) => state.mainFxPairs.dataInfo);
@@ -14,50 +15,53 @@ const PairInfo = () => {
 
   if (status === 'successful') {
     content = (
-      <div>
-        <p>
-          Pricing Date:
-          {' '}
-          {info[0].date}
-        </p>
-        <h3>
-          Open:
-          {' '}
-          {info[0].open}
-        </h3>
+      <>
+        <div className="date">
+          <p>
+            Pricing Date:
+            {' '}
+            {info[0].date}
+          </p>
+        </div>
 
-        <h2>
-          Low:
-          {' '}
-          {info[0].low}
-        </h2>
+        <article className="high-low-container">
+          <div className="high-low">
+            <h2>{info[0].high}</h2>
+            <p>High</p>
+          </div>
+          <div className="high-low">
+            <h2>{info[0].low}</h2>
+            <p>Low</p>
+          </div>
+        </article>
 
-        <h2>
-          High:
-          {' '}
-          {info[0].high}
-        </h2>
-        <h4>
-          Close:
-          {' '}
-          {info[0].Close}
-        </h4>
-        <h4>
-          Volume:
-          {' '}
-          {info[0].volume}
-        </h4>
-      </div>
+        <article className="open-close-container">
+          <div className="open-close">
+            <h3>{info[0].open}</h3>
+            <p>Open</p>
+          </div>
+          <div className="open-close">
+            <h3>{info[0].close}</h3>
+            <p>Close</p>
+          </div>
+        </article>
+
+        <div className="volume">
+          <h4>{info[0].volume}</h4>
+          <p>Volume</p>
+        </div>
+
+      </>
     );
   }
 
   return (
     <>
-      <button type="button">
-        {' '}
+      <button type="button" className="go-back">
+        <BiArrowBack />
         <Link to="/">Go back</Link>
       </button>
-      <div>{content}</div>
+      <div className="info-content">{content}</div>
     </>
   );
 };

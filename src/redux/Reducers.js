@@ -30,7 +30,7 @@ const pairsSlice = createSlice({
     dataInfo: [],
     currentPair: '',
     status: '',
-    filter: 'USD',
+    filter: 'ALL',
   },
   reducers: {
     allPairs(state) {
