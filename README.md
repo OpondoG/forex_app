@@ -1,5 +1,5 @@
 
-# Space Traveler's Hub
+# Forex App
 
 > This is a Web APP Focused only on currency trading, covers some of the major currency pairs traded worldwide, such as EUR/USD, USD/JPY and GBP/USD. The users are able to view live prices for the major forex pairs, and to learn what factors that impact their price movements.
 
