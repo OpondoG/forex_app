@@ -60,5 +60,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENCE) licensed.
+This project is [MIT](https://github.com/OpondoG/bookstore/blob/components/LICENSE) licensed.
 
