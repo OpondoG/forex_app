@@ -20,7 +20,7 @@
 [Link will be displayed here soon...](https://forexapk.netlify.app/)
 
 ## Loom video
-[video](https://loom.com/share/d05857959f2e4e7b8db17556aea6309b)
+[video](https://drive.google.com/file/d/1wsuPrdWhUXmNtSnRGxgEEpyE21HbODnJ/view?usp=sharing)
 
 ## Set Up Guide :page_facing_up: 
 
