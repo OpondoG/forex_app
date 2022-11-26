@@ -1,5 +1,5 @@
 
-# Space Traveler's Hub
+# Forex App
 
 > This is a Web APP Focused only on currency trading, covers some of the major currency pairs traded worldwide, such as EUR/USD, USD/JPY and GBP/USD. The users are able to view live prices for the major forex pairs, and to learn what factors that impact their price movements.
 
@@ -14,6 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Jest.
 
 ### Quick view
+Presentation: (https://www.loom.com/share/d05857959f2e4e7b8db17556aea6309b)
 
 ## Live Demo
 
