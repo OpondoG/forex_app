@@ -1,89 +1,64 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Forex App
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
+# Best Technological Posts
 > This is a Web APP Focused only on currency trading, covers some of the major currency pairs traded worldwide, such as EUR/USD, USD/JPY and GBP/USD. The users are able to view live prices for the major forex pairs, and to learn what factors that impact their price movements.
+> 
+## Built With :hammer_and_wrench: 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- **HTML/CSS & JS best practices:** Correct use of tags, elements, properties and syntax.
+- **GitHub flow:**  Correct use of Branches for deployment and features development.
+- **Linters Check:** Local and Pull Request check for errors, bugs and stylistic errors in code.
+- **REACT JS:** JS library used for the basic structure.
 
-## Built With
+## Live Demo :arrow_forward:
 
-- Visual Studio Code, Git, GitHub using Gitflow.
-- React components.
-- Redux toolkit.
-- Modular CSS.
-- Jest.
+[Link will be displayed here soon...](https://forexapk.netlify.app/)
 
-### Quick view
-Presentation: (https://www.loom.com/share/d05857959f2e4e7b8db17556aea6309b)
+## Loom video
+[video](https://loom.com/share/d05857959f2e4e7b8db17556aea6309b)
 
-## Live Demo
+## Set Up Guide :page_facing_up: 
 
-## Getting Started
+1. Use the following link for "$ git clone" the [repo](https://github.com/....) and cd reponame
+2. "npm install" to install all the dependencies
 
-### Prerequisites
-- To get a local copy up and running, copy the SSH key of the repository and run `git clone` in your terminal.
+3. "npm start" to run the live version locally
 
-### Install
-- `npm install`: Install all the dependencies required locally.
+4. "code ." To open the project on your local editor
 
-### Setup
-- `npm run build`: Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Author :writing_hand: 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+:main_technologist:
+🙆‍♀️ **Gilbert Okonjo**
 
-
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-### Deployment
-- `npm start`: Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-### Run tests 
-- `npm test`: Launches the test runner in the interactive watch mode.\
-
-## 👤 Author
-👤 **Gilbert Okonjo**
-- GitHub: [GitHub](https://github.com/OpondoG)
--LinkedIn: [LinkedIn](https://www.linkedin.com/in/gilbert-okonjo/)
 
 ## 🤝 Contributing
-- Contributions, issues, and feature requests are welcome!
+
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-## Show your support
-Give a ⭐️ if you like this project!
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
 ## Acknowledgments
-- Microverse Module 3 React and Redux Capstone Project.
-- Project indications [here](https://github.com/microverseinc/curriculum-react-redux/blob/main/capstone/react_capstone.md).
-- Data Provided by Financial Modeling Prep [Link API](https://financialmodelingprep.com/developer/docs/).
+
+- To morning session team,reviewers and standup team members.
+- Design by [Nelson Sakwa on Behance](https://www.behance.net/sakwadesignstudio)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 ## 📝 License
+
 This project is [MIT](./MIT.md) licensed.
+
