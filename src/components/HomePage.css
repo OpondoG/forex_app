@@ -12,7 +12,7 @@
 .top-part h1 {
   font-size: 1rem;
   text-align: center;
-  color: hsl(180deg 51% 52%);
+  color: #051d32;
 }
 
 .top-buttons {
@@ -93,6 +93,7 @@
 
   .top-part h2 {
     font-size: 1rem;
+    color: #051d32;
   }
 
   .top-buttons {

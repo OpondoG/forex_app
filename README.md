@@ -14,6 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Jest.
 
 ### Quick view
+Presentation: (https://www.loom.com/share/d05857959f2e4e7b8db17556aea6309b)
 
 ## Live Demo
 
